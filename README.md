@@ -12,7 +12,9 @@
 * **Strict Decoupling:** Every peripheral is isolated into standardized files (`_Interface.h`, `_Config.h`, `_Private.h`, `_Register.h`, `_Program.c`), allowing you to drop any single driver directly into your project.
 * **Hardware Verified:** Tested and validated on physical **ATmega32** target hardware as well as Proteus simulation.
 
-<img width="1427" height="898" alt="image" src="https://github.com/user-attachments/assets/a3010d1c-d05b-4645-8968-4c75d17dfbea" />
+<p align="center">
+  <img src="media/ldr_adc_demo.gif" alt="LDR ADC Light Monitor Proteus simulation demo" width="1427">
+</p>
 
 ---
 
